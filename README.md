@@ -5,7 +5,7 @@ An interactive Power BI dashboard that visualizes key weather metrics—temperat
 
 This is an **interactive weather dashboard** built with **Power BI**, designed to track and analyze weather data across major cities in India. Users can select cities and dates to view important parameters such as temperature, wind speed, humidity, and atmospheric pressure. The dashboard also provides suggestions based on weather conditions to help users plan their day.
 
-![Dashboard Screenshot](Screenshot 2025-06-12 181444.png)
+![Dashboard Screenshot:](https://github.com/Atharva0336/Indian-Cities-Weather-Dashboard/blob/main/Screenshot%202025-06-12%20181444.png))
 
 ---
 
